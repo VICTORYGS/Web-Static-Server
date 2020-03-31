@@ -1,4 +1,4 @@
-# Web-Server
+# Web-Static-Server
 Node.js Web Static Server
 
  * 完全基于node原生自带模块实现的web静态资源服务
