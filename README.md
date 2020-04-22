@@ -2,6 +2,7 @@
 Node.js Web Static Server
 
  * 完全基于node原生自带模块实现的web静态资源服务
+ ## Usage
  * 将server文件置于前端资源目录下 执行node server 即可
  * node server [port]
  * for example:  node server 3000
